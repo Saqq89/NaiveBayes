@@ -1,0 +1,10 @@
+﻿| Tamaño   | Tipo        | Salsa  | Cebolla | Cilantro | Limón | Queso | Clase   |
+|----------|-------------|--------|---------|----------|-------|-------|---------|
+| Grande   | Asada       | Verde  | Sí      | Sí       | Sí    | Sí    | Bueno   |
+| Mediano  | Al Pastor   | Roja   | Sí      | Sí       | Sí    | No    | Regular |
+| Pequeño  | Pollo       | Ninguna| No      | No       | No    | No    | Malo    |
+| Mediano  | Barbacoa    | Verde  | Sí      | No       | Sí    | Sí    | Regular |
+| Grande   | Asada       | Roja   | No      | Sí       | Sí    | No    | Bueno   |
+| Pequeño  | Al Pastor   | Roja   | Sí      | No       | No    | Sí    | Regular |
+| Mediano  | Pollo       | Ninguna| No      | Sí       | Sí    | No    | Regular |
+| Grande   | Barbacoa    | Roja   | Sí      | Sí       | No    | No    | Bueno   |
